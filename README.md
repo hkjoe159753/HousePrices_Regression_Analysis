@@ -1,5 +1,6 @@
 # HousePrices_Regression_Analysis
 Analyze the relationship between the sale price of house and other variables (factors)
+Dataset: retrieved from Kaggle
 
 1. Statistical summary of the dataset
 2. Correlation Analysis (Saleprice : GrLivArea/TotalBsmtSF/OverallQual/YearBuilt)
