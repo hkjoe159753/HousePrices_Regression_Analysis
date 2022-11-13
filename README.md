@@ -9,5 +9,5 @@ Reference: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 2. Correlation Analysis (Saleprice : GrLivArea/TotalBsmtSF/OverallQual/YearBuilt)
 3. Correaltion Matrix Analysis
 4. Data Cleansing
-5. Outlier of Univaraite and Bivariate Analysis
+5. Outlier of Univariate and Bivariate Analysis
 6. Further Statistical Insights (Normality and Homoscedasticity)
